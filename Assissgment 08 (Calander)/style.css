@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}    
+td{
+    border: 1px solid green ;
+    text-align: center;
+}
+table{
+    width: 100%;
+}
+.index{
+    color: red;
+}
+.green{
+    color: rgba(8, 116, 2, 0.909);
+}
